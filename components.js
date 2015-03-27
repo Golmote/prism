@@ -203,6 +203,11 @@ var components = {
 			"require": "markup",
 			"owner": "Golmote"
 		},
+		"gfm": {
+			"title": "Markdown GitHub (GFM)",
+			"require": "markdown",
+			"owner": "Golmote"
+		},
 		"matlab": {
 			"title": "MATLAB",
 			"owner": "Golmote"
